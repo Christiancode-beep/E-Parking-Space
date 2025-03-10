@@ -60,8 +60,8 @@ namespace SmartParkingSystem.Repository
                         Status = "pending",
                         Reference = responseFromPaystack.Data.Reference
                     };
-                    await _context.AddAsync(payment);
-                    await _context.SaveChangesAsync();
+                    //await _context.AddAsync(payment);
+                    //await _context.SaveChangesAsync();
                 }
                 response = new InitiateResponse
                 {
