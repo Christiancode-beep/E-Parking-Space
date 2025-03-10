@@ -147,8 +147,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\PaymentController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:17:56.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:17:56.174Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T05:57:02.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T05:57:02.888Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Entities\\DataTransferObjects\\PaymentDto.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:45:32.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:45:32.907Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Entities\\DataTransferObjects\\ParkingOwnerDto.cs",
               "ViewState": "AgIAAB4AAACgZ8LfnMMiwC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:33:18.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T13:33:18.354Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\BookingController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T14:37:46.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T14:37:46.767Z"
             },
             {
               "$type": "Document",
@@ -260,8 +255,7 @@
               "RelativeToolTip": "SmartParkingSystem\\JwtFeatures\\JwtHandler.cs",
               "ViewState": "AgIAACsAAAAAEUviE0YPwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:12:07.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T07:12:07.406Z"
             },
             {
               "$type": "Document",
@@ -321,8 +315,7 @@
               "RelativeToolTip": "SmartParkingSystem\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAkwFkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:31:21.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T13:31:21.936Z"
             }
           ]
         }
